@@ -1,0 +1,29 @@
+{
+  "name": "cn_devops_bootcamp",
+  "version": "1.0.0",
+  "description": "CN devops learning",
+  "main": "index.js",
+  "scripts": {
+
+      "test": "jest"
+
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goswamis116/CN_Devops_bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goswamis116/CN_Devops_bootcamp/issues"
+  },
+  "homepage": "https://github.com/goswamis116/CN_Devops_bootcamp#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
